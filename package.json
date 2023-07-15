@@ -33,7 +33,7 @@
     "webpack-cli": "^3.2.1"
   },
   "dependencies": {
-    "jails.packages": "git+https:https://github.com/packages.git",
+    "jails.packages": "git+https://github.com/packages.git",
     "morphdom": "^2.6.1",
     "sodajs": "^0.4.10"
   }
